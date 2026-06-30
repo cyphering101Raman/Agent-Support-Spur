@@ -61,8 +61,12 @@ The application will be available locally, usually at `http://localhost:5173`.
 
 ## Environment Variables
 
-No frontend environment variables are strictly required to run the development server. 
-The API base URL is configured to seamlessly talk to the local backend during development.
+## Environment Variables
+
+You need to create a `.env` file in the root of the `frontend` directory and add your backend API URL:
+```env
+VITE_API_URL=http://localhost:3000
+
 
 ## Scripts
 
