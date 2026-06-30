@@ -115,6 +115,7 @@ For detailed installation instructions, please see the individual folder documen
 
 ### AI Responses
 ![AI Responses](./.github/assets/chat1.png)
+![AI Responses](./.github/assets/chat3.png)
 
 ## Assignment Requirements Covered
 
